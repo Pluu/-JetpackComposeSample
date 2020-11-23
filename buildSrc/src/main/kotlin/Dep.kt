@@ -17,7 +17,7 @@ object Dep {
         }
 
         const val appcompat = "androidx.appcompat:appcompat:1.3.0-alpha02"
-        const val coreKtx = "androidx.core:core-ktx:1.5.0-alpha04"
+        const val coreKtx = "androidx.core:core-ktx:1.5.0-alpha05"
 
         object lifecycle {
             private const val version = "2.3.0-beta01"
@@ -31,7 +31,7 @@ object Dep {
         }
 
         object Compose {
-            const val version = "1.0.0-alpha06"
+            const val version = "1.0.0-alpha07"
 
             const val runtime = "androidx.compose.runtime:runtime:$version"
             const val foundation = "androidx.compose.foundation:foundation:${version}"

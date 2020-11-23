@@ -2,7 +2,6 @@ package com.pluu.composesample.sample.modifier
 
 import androidx.compose.animation.animate
 import androidx.compose.foundation.BorderStroke
-import androidx.compose.foundation.Text
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
