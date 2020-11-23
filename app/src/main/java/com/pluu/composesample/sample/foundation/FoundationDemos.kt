@@ -6,6 +6,7 @@ import com.pluu.composesample.demo.DemoCategory
 val FoundationDemos = DemoCategory(
     "Foundation in Android",
     listOf(
-        ComposableDemo("ProgressIndicator Multiple Color") {  ProgressIndicatorApp() }
+        ComposableDemo("LazyGridFor") { LazyGridForApp() },
+        ComposableDemo("ProgressIndicator Multiple Color") { ProgressIndicatorApp() },
     )
 )
