@@ -10,8 +10,8 @@ Foundation
 
 | Sample                              | Content                                                      | Preview                                                      |
 | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Multiple-color in ProgressIndicator | Origin Source : https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/material/material/src/commonMain/kotlin/androidx/compose/material/ProgressIndicator.kt | <img src="arts/sample_multiple_color_progress.gif" width="400" /> |
-| LazyGridFor                         | Original Source : https://proandroiddev.com/android-jetpack-compose-exploring-state-based-ui-e1d970471d0a | <img src="arts/sample_lazygrid.gif" width="400" />           |
+| Multiple-color in ProgressIndicator | Origin Source : <a href="https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/material/material/src/commonMain/kotlin/androidx/compose/material/ProgressIndicator.kt">Link</a> | <img src="arts/sample_multiple_color_progress.gif" width="400" /> |
+| LazyGridFor                         | Original Source : <a href="https://proandroiddev.com/android-jetpack-compose-exploring-state-based-ui-e1d970471d0a">Link</a> | <img src="arts/sample_lazygrid.gif" width="400" />           |
 
 Modifier
 
