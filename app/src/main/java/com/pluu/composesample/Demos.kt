@@ -1,6 +1,7 @@
 package com.pluu.composesample
 
 import com.pluu.composesample.demo.DemoCategory
+import com.pluu.composesample.sample.foundation.FoundationDemos
 import com.pluu.composesample.sample.modifier.ModifierDemos
 
 /**
@@ -9,6 +10,7 @@ import com.pluu.composesample.sample.modifier.ModifierDemos
 val AllDemosCategory = DemoCategory(
     "Jetpack Compose Demos",
     listOf(
+        FoundationDemos,
         ModifierDemos
     )
 )
